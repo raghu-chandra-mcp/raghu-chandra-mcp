@@ -12,7 +12,7 @@ Co-facilitator of the [MCP Enterprise Interest Group](https://discord.com/channe
 
 ## MCP Enterprise Interest Group
 
-The Enterprise IG brings together practitioners to document enterprise MCP pain points and build consensus on priorities for the MCP roadmap.
+The Enterprise IG brings together practitioners from organizations like Saxo Bank, Nordstrom, Boomi, Silex Data Solutions, and others to document enterprise MCP pain points and build consensus on priorities for the MCP roadmap.
 
 We're currently:
 - 📋 Filing the [Enterprise IG Charter](https://modelcontextprotocol.io/community/charter-template) (deadline: May 18, 2026)
